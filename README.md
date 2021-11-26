@@ -1,4 +1,5 @@
 Latest posts on my [blog](https://rlee063.github.io/):
+* 2021-11-24 [n1ctf2021 部分 pwn 题解](https://rlee063.github.io/n1ctf2021.html)
 * 2021-11-03 [syzkaller internals: grammar system](https://rlee063.github.io/syzkaller-grammar.html)
 * 2021-11-02 [syzkaller internals: architecture](https://rlee063.github.io/syzkaller-arch.html)
 * 2021-10-27 [CVE-2017-7308 - packet_sock 结构体利用](https://rlee063.github.io/cve-2017-7308.html)
